@@ -13,3 +13,17 @@
 [3.2 motorcycles.py](https://github.com/baoyg/python/blob/main/03/3.2%20motorcycles.py) | 添加、修改、删除元素
 
 [3.3 cars.py](https://github.com/baoyg/python/blob/main/03/3.3%20cars.py) | 对列表永久排序；临时排序；倒序打印；列表长度
+
+## 第4章 操作列表
+
+[4.1 magicians.py](https://github.com/baoyg/python/blob/main/04/4.1%20magicians.py) | 遍历列表；for循环
+
+[4.3 numbers.py](https://github.com/baoyg/python/blob/main/04/4.3%20numbers.py) | 使用range()创建数值列表
+
+[4.3.2 squares.py](https://github.com/baoyg/python/blob/main/04/4.3.2%20squares.py) | 列表解析
+
+[4.4 players.py](https://github.com/baoyg/python/blob/main/04/4.4%20players.py) | 切片；遍历切片
+
+[4.4.3 foods.py](https://github.com/baoyg/python/blob/main/04/4.4.3%20foods.py) | 复制列表
+
+[4.5 dimensions.py](https://github.com/baoyg/python/blob/main/04/4.5%20dimensions.py) | 元组
