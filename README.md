@@ -27,3 +27,21 @@
 [4.4.3 foods.py](https://github.com/baoyg/python/blob/main/04/4.4.3%20foods.py) | 复制列表
 
 [4.5 dimensions.py](https://github.com/baoyg/python/blob/main/04/4.5%20dimensions.py) | 元组
+
+## 第5章 `if`语句
+
+[5.1 cars.py ](https://github.com/baoyg/python/blob/main/05/5.1%20cars.py) | `if`语句示例
+
+[5.2.3 toppings.py](https://github.com/baoyg/python/blob/main/05/5.2.3%20toppings.py) | 检查元素不相等用`!=`
+
+[5.2.4 magic_number.py](https://github.com/baoyg/python/blob/main/05/5.2.4%20magic_number.py) | 检查多个条件；检查元素是否在列表中
+
+[5.2.7 banned_users.py](https://github.com/baoyg/python/blob/main/05/5.2.7%20banned_users.py) | 检查元素不在列表中；布尔表达式
+
+[5.3 voting.py](https://github.com/baoyg/python/blob/main/05/5.3%20voting.py) | `if-else`语句
+
+[5.3.3 amusement_park.py](https://github.com/baoyg/python/blob/main/05/5.3.3%20amusement_park.py) | `if-else-else`结构；`if-elif`结构
+
+[5.3.6 toppings.py](https://github.com/baoyg/python/blob/main/05/5.3.6%20toppings.py) | 测试多个条件
+
+[5.4 toppings.py](https://github.com/baoyg/python/blob/main/05/5.4%20toppings.py) | 使用`if`语句处理列表
