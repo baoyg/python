@@ -38,3 +38,13 @@
 | [5.3.3 amusement_park.py](https://github.com/baoyg/python/blob/main/05/5.3.3%20amusement_park.py) | `if-else-else`结构；`if-elif`结构 |
 | [5.3.6 toppings.py](https://github.com/baoyg/python/blob/main/05/5.3.6%20toppings.py) | 测试多个条件 |
 | [5.4 toppings.py](https://github.com/baoyg/python/blob/main/05/5.4%20toppings.py) | 使用`if`语句处理列表 |
+
+## 第6章 字典
+
+| Link | Content |
+| --- | --- |
+| [6.1 alien.py](https://github.com/baoyg/python/blob/main/06/6.1%20alien.py) | 访问字典中的值；添加键值对；创建空字典；修改字典的值；删除键值对 |
+| [6.2.6 favorite_languages.py](https://github.com/baoyg/python/blob/main/06/6.2.6%20favorite_languages.py) | 遍历所有键值对；遍历所有的键；遍历所有的值 |
+| [6.4 aliens.py](https://github.com/baoyg/python/blob/main/06/6.4%20aliens.py) | 在列表中存储字典 |
+| [6.4.2 pizza.py](https://github.com/baoyg/python/blob/main/06/6.4.2%20pizza.py) | 在字典中存储列表 |
+| [6.4.3 many_users.py](https://github.com/baoyg/python/blob/main/06/6.4.3%20many_users.py) | 在字典中存储字典 |
